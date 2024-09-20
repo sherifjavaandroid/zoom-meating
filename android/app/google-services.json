@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1028615357963",
+    "project_id": "meetup-28cd2",
+    "storage_bucket": "meetup-28cd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028615357963:android:c250ea1fc74c82b19d690e",
+        "android_client_info": {
+          "package_name": "com.edentech.meetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028615357963-2dsa7vmomoj042f326lnppii6co0une1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wuTgbtgrWmNQz1Tzr3qUVnpCsMY17yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028615357963-2dsa7vmomoj042f326lnppii6co0une1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1028615357963-737qf9nr6ldsfahrc2gf9so8p7dchvao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edentech.meetup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

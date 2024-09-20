@@ -1,0 +1,116 @@
+
+Profile Update
+There was an error joining new meeting
+Untitled
+Registration Failed
+Login Failed
+Logout
+Are you sure you want to logout?
+Logging out Please wait...
+Delete Account
+Are you sure you want to delete your account?
+Deleting Account. Please wait...
+Edit Profile
+Name
+Phone
+Update Profile
+You have to login to access profile and history
+Login
+Forgot Password
+Phone Number
+Send OTP
+Invalid Phone Number
+New Password
+Please enter account new password
+Reset Password
+My Meetings
+History
+Meeting
+Lounge
+Profile
+Welcome Back
+Login to continue
+Password
+Forgot Password ?
+Login
+OR
+Create An Account
+Public Meetings
+Private
+Public
+Meeting
+Join Meeting
+Host Meeting
+Join an existing meeting
+Meeting ID
+Nick Name
+Join
+Host a new meeting
+Meeting ID *
+New Meeting ID
+Meeting title (optional)
+Public Meeting
+Share Meeting
+Create & Enter Now
+Select Image
+Remove
+Meeting from anywhere
+Start/Join a meeting from anywhere in the world
+Stay in touch
+Also connected with colleagues, family & friends via messages
+Video conferencing
+Start a video call on the go with colleagues, family & friends
+Settings
+Notifications
+Profile & App Settings
+Rate & Review
+Verison
+Privacy Policy
+Language
+Copyright ©%s %s all right reserved
+Edit Profile
+Logout
+Delete Account
+Join Us
+Create an account now
+Name
+Phone
+Password
+Create Account
+OR
+Already have an Account
+Verify your phone number
+Enter otp sent to your provided phone number
+Verify
+Rejoin
+Unleash the power of artificial intelligence to generate stunning and creative images. Experience the magic of our AI algorithms that can produce unique artworks, landscapes, portraits, and more. Let your imagination come to life with the help of AI technology.
+Engage in interactive conversations with our intelligent Chatbot powered by state-of-the-art natural language processing. Get answers to your questions, explore various topics, or simply have a friendly chat.
+Chatbot
+AI Image Generation
+AI Image Generator
+Please enter text to generate image
+Please enter more than 3 characters to generate image
+Generate
+Reset
+Apply
+Settings
+Image Size
+Number of Images
+Please enter message
+Please enter more than 2 characters to send message
+Bot
+You
+Failed to download image
+Image downloaded successfully
+Switch Camera
+Enable Camera
+Disable Camera
+Share Screen
+Share Screen
+Switch SpeakerPhone
+Select Audio Output
+Unmute Audio
+Mute Microphone
+Mute Audio
+Screen Sharing
+You are currently sharing the screen.
